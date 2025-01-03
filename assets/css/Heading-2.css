@@ -1,0 +1,28 @@
+@media (min-width: 300px) {
+  .heading-2 {
+    font-size: 22.4px;
+  }
+}
+
+@media (min-width: 768px) {
+  .heading-2 {
+    font-size: 27.4px;
+  }
+}
+
+.heading-2 {
+  font-family: Poppins, sans-serif;
+  color: var(--bs-form-invalid-border-color);
+  letter-spacing: 2px;
+  line-height: 32.7px;
+  border-bottom: 3.4px solid var(--bs-body-color);
+  margin: 10px 0px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
